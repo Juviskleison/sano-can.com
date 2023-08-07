@@ -1,0 +1,21 @@
+html {
+    background-color: #000000;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+body {
+    width: 80%;
+    min-height: calc(100vh - 4em);
+    margin: 0 auto;
+    padding: 2em;
+    background-color: #000000;
+}
+h1 {
+    color: #0000ee;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 72pt;
+    text-align: center;
+    line-height: 72pt;
+    margin-top: 0pt;
+    margin-bottom: 0pt;
+}
